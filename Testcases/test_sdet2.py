@@ -9,3 +9,10 @@
 #multiple  line added line 5
 #multiple  line added line 6
 #multiple  line added line 6
+
+#increase the line numbers 1
+#increase the line numbers 2
+#increase the line numbers 3
+#increase the line numbers 4
+#increase the line numbers 5
+#increase the line numbers 6
